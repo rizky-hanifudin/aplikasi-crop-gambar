@@ -8,11 +8,7 @@
 
 # README
 
-Ini adalah aplikasi [Flask](http://flask.pocoo.org/) untuk latihan ujian akhir saya.
-
-Demo: [https://fumui-img-cropper.onrender.com](https://fumui-img-cropper.onrender.com)
-
-Py Image Cropper adalah aplikasi web yang memungkinkan Anda mengunggah gambar, melihat pratinjau, memotong gambar berdasarkan posisi dan ukuran, serta mengunduh gambar yang telah dipotong. Aplikasi web ini dibangun menggunakan Flask dan OpenCV.
+Aplikasi Crop Gambar adalah aplikasi web yang memungkinkan Anda mengunggah gambar, melihat pratinjau, memotong gambar berdasarkan posisi dan ukuran, serta mengunduh gambar yang telah dipotong. Aplikasi web ini dibangun menggunakan Flask dan OpenCV.
 
 ## Fitur
 
@@ -30,7 +26,7 @@ Py Image Cropper adalah aplikasi web yang memungkinkan Anda mengunggah gambar, m
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/fumui/py-img-cropper.git
+   git clone https://github.com/rizky-hanifudin/aplikasi-crop-gambar.git
    ```
 
 2. Pindah ke direktori proyek:
@@ -68,3 +64,5 @@ Py Image Cropper adalah aplikasi web yang memungkinkan Anda mengunggah gambar, m
 8. Lihat gambar yang telah dipotong.
 
 9. Unduh gambar yang telah dipotong sebagai file markdown atau gambar.
+https://github.com/rizky-hanifudin/aplikasi-crop-gambar/blob/main/tutorial/berhasil.png
+![Gambar Memotret](https://ulas.in/wp-content/uploads/2016/02/gambar-memotret.png "Sorot gambar, akan keluar tulisan ini")
