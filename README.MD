@@ -61,7 +61,7 @@ Aplikasi Crop Gambar adalah aplikasi web yang memungkinkan Anda mengunggah gamba
 5. Pilih posisi pemotongan dari daftar dropdown.
 
 6. Tentukan ukuran pemotongan dalam piksel.
-   \*Catatan jika ukuran crop melebihi ukuran gambar maka akan gagal.
+*Catatan jika ukuran crop melebihi ukuran gambar maka akan gagal.
 Hasil jika ukuran crop melebihi ukuran gambar:
 ![Gagal Crop](https://github.com/rizky-hanifudin/aplikasi-crop-gambar/blob/main/tutorial/error.png "Sorot gambar, akan keluar tulisan ini")
 
