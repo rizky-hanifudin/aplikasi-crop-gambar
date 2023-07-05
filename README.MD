@@ -1,3 +1,11 @@
+**Nama	: RIZKY HANIFUDIN**
+
+**NIM		: 201011400105**
+
+**Kelas	: 06TPLE005**
+
+**Cara Instalasi Aplikasi Crop Gambar**
+
 # README
 
 Ini adalah aplikasi [Flask](http://flask.pocoo.org/) untuk latihan ujian akhir saya.
@@ -28,7 +36,7 @@ Py Image Cropper adalah aplikasi web yang memungkinkan Anda mengunggah gambar, m
 2. Pindah ke direktori proyek:
 
    ```bash
-   cd py-img-cropper
+   cd aplikasi-crop-gambar
    ```
 
 3. Instal dependensi:
@@ -45,7 +53,7 @@ Py Image Cropper adalah aplikasi web yang memungkinkan Anda mengunggah gambar, m
    python app.py
    ```
 
-2. Buka web browser Anda dan kunjungi `http://localhost:5000`.
+2. Buka web browser Anda dan kunjungi `http://127.0.0.1:5000`.
 
 3. Pilih file gambar dengan mengklik tombol "Pilih gambar".
 
