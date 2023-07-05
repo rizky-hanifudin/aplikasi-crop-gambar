@@ -48,21 +48,26 @@ Aplikasi Crop Gambar adalah aplikasi web yang memungkinkan Anda mengunggah gamba
    ```bash
    python app.py
    ```
+![Run Aplikasi](https://github.com/rizky-hanifudin/aplikasi-crop-gambar/blob/main/tutorial/run.png "Sorot gambar, akan keluar tulisan ini")
 
 2. Buka web browser Anda dan kunjungi `http://127.0.0.1:5000`.
+![Tampilan Aplikasi](https://github.com/rizky-hanifudin/aplikasi-crop-gambar/blob/main/tutorial/web.png "Sorot gambar, akan keluar tulisan ini")
 
 3. Pilih file gambar dengan mengklik tombol "Pilih gambar".
 
 4. Pratinjau gambar yang telah dipilih.
+![Berhasil Upload](https://github.com/rizky-hanifudin/aplikasi-crop-gambar/blob/main/tutorial/upload.png "Sorot gambar, akan keluar tulisan ini")
 
 5. Pilih posisi pemotongan dari daftar dropdown.
 
 6. Tentukan ukuran pemotongan dalam piksel.
+   \*Catatan jika ukuran crop melebihi ukuran gambar maka akan gagal.
+Hasil jika ukuran crop melebihi ukuran gambar:
+![Gagal Crop](https://github.com/rizky-hanifudin/aplikasi-crop-gambar/blob/main/tutorial/error.png "Sorot gambar, akan keluar tulisan ini")
 
 7. Klik tombol "Potong" untuk melakukan operasi pemotongan.
 
 8. Lihat gambar yang telah dipotong.
 
 9. Unduh gambar yang telah dipotong sebagai file markdown atau gambar.
-https://github.com/rizky-hanifudin/aplikasi-crop-gambar/blob/main/tutorial/berhasil.png
-![Gambar Memotret](https://ulas.in/wp-content/uploads/2016/02/gambar-memotret.png "Sorot gambar, akan keluar tulisan ini")
+![Berhasil](https://github.com/rizky-hanifudin/aplikasi-crop-gambar/blob/main/tutorial/berhasil.png "Sorot gambar, akan keluar tulisan ini")
